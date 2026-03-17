@@ -7,9 +7,9 @@ polarization-dependent absorption of carbon microsphere clusters.
 
 ## Repository Structure
 
-notebooks/      → analysis notebooks  
-results/        → example outputs  
-data_example/   → small dataset for testing
+Codes for Analysis/      → analysis notebooks  
+Results/        → example outputs  
+Example data/   → small dataset for testing
 
 ## Example Output
 
